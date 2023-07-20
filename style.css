@@ -11,24 +11,40 @@ div {
 
 a:link
 {
-    color:#000000;
+ color:#000000;
 }
 
 a:visited
 {
-    color:#000000;
+ color:#000000;
 }
 
 a:hover 
 {
-    color:#000000;
+ color:#000000;
 }
 
-.high {
+.button {
  background: #C0C0C0;
- width: 300px;
+ width: 350px;
  height: 20px;
  display: inline-block;
  margin: 10px;
  padding: 30px;
+}
+
+.text{
+ margin-left: 150px;
+ margin-right: 150px;
+}
+
+.photo{
+ width: 400px;
+ height: 400px;
+ margin-right: 5px;
+}
+
+.сontacts{
+ width: 300px;
+ height: 450px;
 }
